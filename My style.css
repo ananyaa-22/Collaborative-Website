@@ -1,5 +1,5 @@
 .css-selector {
-    background: linear-gradient(45deg,#929292, #f1f1f1, #63adf1, #f5e981, #349add, #9fb6d8fd, #c00000);
+    background: linear-gradient(45deg,#929292, #f1f1f1, #63adf1, #f5e981, #349add, #9fb6d8fd);
     background-size: 1200% 1200%;
 
     -webkit-animation: Coolanimation 25s ease infinite;
@@ -22,5 +22,6 @@
     50%{background-position:100% 82%}
     100%{background-position:0% 19%}
 }
+
 /* background: linear-gradient(45deg,#929292, #f1f1f1, #63adf1, #c9c9c9, #5f6aff, #00000007); */
 /* background: linear-gradient(45deg,#929292, #f1f1f1, #63adf1, #f0f0f0, #666a9b, #9fb6d8fd, #c00000); */
